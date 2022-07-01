@@ -26,7 +26,7 @@ TEST(example_lib, rectangleSquare)
 
 TEST(example_lib, triangleSquare)
 {
-    // my comment to the test
+    // my comment to the test 2
     double a = 5.;
     double h = 5.;
     double expectedSquare = a * h / 2.;
